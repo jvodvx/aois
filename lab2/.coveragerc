@@ -1,9 +1,0 @@
-[run]
-branch = True
-source = boolean_logic
-
-[report]
-show_missing = True
-fail_under = 90
-omit =
-    tests/*
