@@ -1,0 +1,7 @@
+[run]
+source = bitmath_impl
+omit =
+    tests/*
+
+[report]
+show_missing = True
