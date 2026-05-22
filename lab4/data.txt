@@ -1,0 +1,10 @@
+Germany:Berlin
+France:Paris
+Finland:Helsinki
+Georgia:Tbilisi
+Greece:Athens
+Canada:Ottawa
+China:Beijing
+Chile:Santiago
+Brazil:Brasilia
+Belgium:Brussels
